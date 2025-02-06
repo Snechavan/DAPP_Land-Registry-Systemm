@@ -97,6 +97,6 @@ And that's it! You’re all set to explore the **Land Registry System**.
 With your land ownership and transactions secured on the blockchain, everything is now transparent, efficient, and trustworthy. Let the future of land registry begin!
 
 ---
-images/pic1.png
+
 
 Let me know if you need anything else or more details! 🌟
